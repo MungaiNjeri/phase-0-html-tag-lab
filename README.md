@@ -29,7 +29,7 @@ Check your progress by running `npm test`. Failing tests will provide helpful
 error messages that you can use to debug your code — read them closely for
 hints!
 
-### Viewing Your Work in the Browser
+`### Viewing Your Work in the Browser
 
 While working through these assignments, your general workflow should center on
 writing code in the text editor and periodically running the test suite in the
